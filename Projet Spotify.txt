@@ -1,0 +1,5 @@
+Les données proviennent de Kaggle : https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs
+
+Ce classeur a pour but de mettre en évidence les caractéristiques influant sur la popularité.
+
+Grace a ce classeur, on remarque qu'on a plus de chances que notre chanson soit populaire si elle est dans le genre EDM, son mode est majeur, et son acousticness est aux alentours de 0,17
